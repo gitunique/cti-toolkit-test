@@ -1,7 +1,7 @@
 CERT Australia CTI Toolkit
 ==========================
-[![Build Status](https://travis-ci.org/gitunique/cti-toolkit-test.svg)](https://travis-ci.org/gitunique/cti-toolkit-test) 
-cti-toolkit-test test
+.. image:: https://travis-ci.org/gitunique/cti-toolkit-test.svg?branch=master
+    :target: https://travis-ci.org/gitunique/cti-toolkit-test
 
 This package contains cyber threat intelligence (CTI) tools created
 by CERT Australia.
