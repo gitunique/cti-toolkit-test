@@ -7,8 +7,8 @@ CERT Australia CTI Toolkit
 .. image:: https://coveralls.io/repos/github/gitunique/cti-toolkit-test/badge.svg?branch=master
     :target: https://coveralls.io/github/gitunique/cti-toolkit-test?branch=master
 
-.. image:: http://cti-toolkit-test.readthedocs.org/en/latest/?badge=latest
-    :target: https://coveralls.io/github/gitunique/cti-toolkit-test?branch=master
+.. image:: https://readthedocs.org/projects/cti-toolkit-test/badge/?version=latest
+    :target: http://cti-toolkit-test.readthedocs.org/en/latest/?badge=latest
 
 This package contains cyber threat intelligence (CTI) tools created
 by CERT Australia.
